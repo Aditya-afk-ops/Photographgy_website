@@ -1,6 +1,2 @@
 # Photographgy_website
-Created a Photography website.
-# Teacher
-Shradha Khapra
-# Student
-Delta Student
+Created a Photography website with HTML and CSS only.
